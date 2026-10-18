@@ -9,11 +9,11 @@ export default defineConfig({
       registerType: 'autoUpdate',
       manifest: {
         name: "App Portal Barrios",
-        short_name: "Portal-Barrios",
+        short_name: "Portal-Barrios-TEST",
         description: 'Aplicación para gestión de barrios cerrados',
         start_url: '/',
         display: "standalone",
-        background_color: "#ffffff",
+        background_color: "#b34242",
         theme_color: "#000000",
         icons: [
           {

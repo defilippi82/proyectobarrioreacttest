@@ -161,7 +161,7 @@ export const Login = () => {
             <i className="fa fa-user-circle fa-5x" aria-hidden="true"></i>
           </div>
 
-          <h2 className="fw-bold mb-4" style={{ color: '#1e293b' }}>Bienvenido</h2>
+          <h2 className="fw-bold mb-4" style={{ color: '#1e293b' }}>Bienvenido TEST</h2>
 
           <form onSubmit={login} className="text-start">
             <div className="mb-3">
